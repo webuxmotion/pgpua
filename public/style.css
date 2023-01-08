@@ -4,3 +4,9 @@ body {
     margin: 0;
     font-family: "Google Sans",Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 }
+
+.projects li a {
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 8px;
+}
